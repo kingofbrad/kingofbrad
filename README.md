@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kingofbrad@gmail.com**
 
-- 📄 Know about my experiences [https://www.bradleeking.com/resume](https://www.bradleeking.com/resume)
+- 📄 Know about my experiences [https://www.brking.dev/resume](https://www.brking.dev/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
