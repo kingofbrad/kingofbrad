@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Swift and RestAPI**
 
-- 👨‍💻 All of my projects are available at [https://www.bradleeking.com/](https://www.bradleeking.com/)
+- 👨‍💻 All of my projects are available at [https://www.bradleeking.com/](https://br.king.dev/)
 
 - 💬 Ask me about **SwiftUI, React, RestAPI**
 
